@@ -1,0 +1,49 @@
+*{
+	font-family:Verdana, Geneva, sans-serif;
+	
+}
+
+#mainSection{
+	width:100%;
+	height:100%;
+	
+	
+	
+	}
+#loginTable{
+	background-color:rgba(41,41,230,0.5);
+	border: 2px inset #03F;
+	
+	color:#FFF;
+	
+	}
+	
+#btn{
+	
+	width:100px;
+	height:100px;
+	background-color:#000;
+	color:#FFF;
+	transition:1s;
+	
+	}
+	#btn:hover{
+		width:160px;
+		height:160px
+		
+		
+		}
+#mainPanel{
+	width:400px;
+	height:100%;
+	float:left;
+	
+	}
+#btn{
+	width:150px;
+	height:150px;
+	}
+a{
+	text-decoration:none;
+	color:#FFF;
+	}
